@@ -5,7 +5,7 @@ Creating a well-structured and visually appealing README file is essential for y
 
 ![Gurza Components Library Logo](url/to/your/logo.png)
 
-Welcome to Gurza Components Library, a collection of reusable React components designed to streamline the development process and enhance the user interface of your projects.
+Welcome to Components Library, a collection of reusable React components designed to streamline the development process and enhance the user interface of your projects.
 
 ## Features
 
@@ -17,7 +17,7 @@ Welcome to Gurza Components Library, a collection of reusable React components d
 ## Installation
 
 ```bash
-npm install gurza-components-library
+npm install components-library
 ```
 
 ## Usage
@@ -25,7 +25,7 @@ npm install gurza-components-library
 Import components into your React project and start building amazing user interfaces.
 
 ```jsx
-import { Button, TextInput } from 'gurza-components-library';
+import { Button, TextInput } from 'components-library';
 
 const MyComponent = () => {
   return (
@@ -39,7 +39,7 @@ const MyComponent = () => {
 
 ## Documentation
 
-Explore the full documentation and examples on how to use each component in the [Gurza Components Library Documentation](url/to/documentation).
+Explore the full documentation and examples on how to use each component in the [Components Library Documentation](url/to/documentation).
 
 ## Contributing
 
