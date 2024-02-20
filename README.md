@@ -1,9 +1,9 @@
 Creating a well-structured and visually appealing README file is essential for your component library repository. Here's a template that you can use as a starting point for your `README.md`:
 
 ```markdown
-# Gurza Components Library
+# Components Library
 
-![Gurza Components Library Logo](url/to/your/logo.png)
+![Components Library Logo](url/to/your/logo.png)
 
 Welcome to Components Library, a collection of reusable React components designed to streamline the development process and enhance the user interface of your projects.
 
